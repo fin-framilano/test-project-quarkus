@@ -13,6 +13,7 @@ Manca l'implementazione di:
 - Testing e Mockito
 
 Per aggiungere nuove estensioni al progetto consultare [questo sito](https://code.quarkus.io/)
+
 Per altre guide guarda il fondo del README
 
 ## Creare progetto con
