@@ -12,6 +12,9 @@ Manca l'implementazione di:
 - Filtri
 - Testing e Mockito
 
+Per aggiungere nuove estensioni al progetto consultare [questo sito](https://code.quarkus.io/)
+Per altre guide guarda il fondo del README
+
 ## Creare progetto con
 mvn io.quarkus.platform:quarkus-maven-plugin:2.9.0.Final:create -DprojectGroupId=org.acme -DprojectArtifactId=test-project -Dextensions="resteasy-reactive"
 
